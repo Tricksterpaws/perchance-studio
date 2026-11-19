@@ -1,6 +1,6 @@
 importScripts('db.js');
 
-const CACHE = 'studio-shell-v1';
+const CACHE = 'studio-shell-v2';
 const SHELL = ['./', 'index.html', 'db.js', 'manifest.webmanifest',
   'icon-192.png', 'icon-512.png', 'maskable-512.png'];
 
